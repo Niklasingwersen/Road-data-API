@@ -1,0 +1,11 @@
+Street	AntalBiler
+Østjyske Motorvej	294
+15	148
+Djurslandmotorvejen	130
+Grenåvej	114
+Nordjyske Motorvej	107
+Havnegade	101
+Jyllands Alle	88
+Paludan-Müllers Vej	88
+Kystvejen	86
+Søftenvej	77

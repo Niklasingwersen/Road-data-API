@@ -1,0 +1,6 @@
+POSTAL_CODE	Gennemsnitsfart
+8462	97
+8660	92
+8382	83
+8520	80
+8471	72
